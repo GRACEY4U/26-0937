@@ -1,5 +1,16 @@
 /*style.css*/
-h4, h5, h6 {
-  color: blue;
-  text-decoration: underline;
+h4 {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+h5 {
+    color: purple;
+    text-decoration: none;
+}
+h6 {
+    color: pink;
+    font-weight: bold;
+    text-decoration: line-through;
 }
